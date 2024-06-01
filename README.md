@@ -1,0 +1,1 @@
+This was one of my first sfml projects, I watched tutorials and videos on sfml and space invaders so I think it came out pretty good, sorry for the project name you can change it later, in general there are comments so it should be understandable.
